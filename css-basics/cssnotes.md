@@ -1,4 +1,5 @@
-# CSS BASICS
+
+# CSS-Basics
 
 cascading style sheets
 
@@ -15,5 +16,6 @@ To separate your HTML and CSS code, you can create a new file, like css/styles.c
 <head>
   …
   <link rel="stylesheet" href="css/styles.css" />
-</head>"
+
+</head>
 ```
